@@ -1,2 +1,2 @@
-local key = "crxts"
+local key = "CrxtsOnTop"
 return key
