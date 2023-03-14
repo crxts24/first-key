@@ -1,2 +1,2 @@
-local key = "crxts#2045"
+local key = "crxts"
 return key
